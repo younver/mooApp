@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4e61643-e6f8-42db-8f72-c6ba2e9f7b6c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[9886784944444b4330]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../InekFirebase" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1nhVSIORmbSNR47WC1SbcBLh0AY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Suggestions" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-61916107">
+      <recent name="com.example.inekfirebase" />
+    </key>
+    <key name="android.template.1605249437">
+      <recent name="com.example.inekfirebase" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\AndroidStudioProjects\mooapp-master\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Inek_Firebase.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\USER\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4e61643-e6f8-42db-8f72-c6ba2e9f7b6c" name="Default Changelist" comment="" />
+      <created>1611842307157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611842307157</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Commit 3&#10;-Chat bug fixed&#10;-Adding posts to database (post description, title, uId, uName, pImage and more!)&#10;---------------------------------------&#10;-After deleting message in chat, scrolls bottom (!)">
+      <created>1611922009580</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611922009581</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/../InekFirebase" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/../InekFirebase" />
+    </ignored-roots>
+    <MESSAGE value="Commit 3&#10;-Chat bug fixed&#10;-Adding posts to database (post description, title, uId, uName, pImage and more!)&#10;---------------------------------------&#10;-After deleting message in chat, scrolls bottom (!)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 3&#10;-Chat bug fixed&#10;-Adding posts to database (post description, title, uId, uName, pImage and more!)&#10;---------------------------------------&#10;-After deleting message in chat, scrolls bottom (!)" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="317" y="178" key="#PSD" timestamp="1612009638792">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="317" y="178" key="#PSD/62.0.1474.864@62.0.1474.864" timestamp="1612009638792" />
+    <state x="997" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1611936821382">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="997" y="156" key="#com.intellij.ide.util.MemberChooser/62.0.1474.864@62.0.1474.864" timestamp="1611936821382" />
+    <state x="698" y="195" key="AndroidCreateResourceFileDialog" timestamp="1611933495256">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="698" y="195" key="AndroidCreateResourceFileDialog/62.0.1474.864@62.0.1474.864" timestamp="1611933495256" />
+    <state x="426" y="0" key="CommitChangelistDialog2" timestamp="1611922007459">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="426" y="0" key="CommitChangelistDialog2/62.0.1474.864@62.0.1474.864" timestamp="1611922007459" />
+    <state x="155" y="93" width="1288" height="678" key="DiffContextDialog" timestamp="1611941667796">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="155" y="93" width="1288" height="678" key="DiffContextDialog/62.0.1474.864@62.0.1474.864" timestamp="1611941667796" />
+    <state x="147" y="178" key="FileChooserDialogImpl" timestamp="1611846208602">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="147" y="178" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1611846208602" />
+    <state x="624" y="352" key="Github.CreateGistDialog" timestamp="1612008558092">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="624" y="352" key="Github.CreateGistDialog/62.0.1474.864@62.0.1474.864" timestamp="1612008558092" />
+    <state x="671" y="330" key="Github.ShareDialog" timestamp="1612009146761">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="671" y="330" key="Github.ShareDialog/62.0.1474.864@62.0.1474.864" timestamp="1612009146761" />
+    <state width="1429" height="223" key="GridCell.Tab.0.bottom" timestamp="1612008772222">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1429" height="223" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1612008772222" />
+    <state width="1429" height="223" key="GridCell.Tab.0.center" timestamp="1612008772222">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1429" height="223" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1612008772222" />
+    <state width="1429" height="223" key="GridCell.Tab.0.left" timestamp="1612008772222">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1429" height="223" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1612008772222" />
+    <state width="1429" height="223" key="GridCell.Tab.0.right" timestamp="1612008772222">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1429" height="223" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1612008772222" />
+    <state x="380" y="175" key="IDE.errors.dialog" timestamp="1611842480407">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="380" y="175" key="IDE.errors.dialog/62.0.1474.864@62.0.1474.864" timestamp="1611842480407" />
+    <state x="308" y="77" key="SettingsEditor" timestamp="1612009655012">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="308" y="77" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1612009655012" />
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1612008681993">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1612008681993" />
+    <state x="155" y="93" width="1288" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1611941306374">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="155" y="93" width="1288" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog/62.0.1474.864@62.0.1474.864" timestamp="1611941306374" />
+    <state x="555" y="314" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612008482416">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="555" y="314" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1474.864@62.0.1474.864" timestamp="1612008482416" />
+    <state x="216" y="38" width="836" height="802" key="dock-window-1" timestamp="1611845028639">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="216" y="38" width="836" height="802" key="dock-window-1/62.0.1474.864@62.0.1474.864" timestamp="1611845028639" />
+    <state x="505" y="165" width="588" height="534" key="find.popup" timestamp="1611842470291">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="505" y="165" width="588" height="534" key="find.popup/62.0.1474.864@62.0.1474.864" timestamp="1611842470291" />
+    <state x="566" y="220" key="git4idea.merge.GitMergeDialog" timestamp="1611941482659">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="566" y="220" key="git4idea.merge.GitMergeDialog/62.0.1474.864@62.0.1474.864" timestamp="1611941482659" />
+    <state x="848" y="203" key="run.anything.popup" timestamp="1611937941020">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="848" y="203" key="run.anything.popup/62.0.1474.864@62.0.1474.864" timestamp="1611937941020" />
+    <state x="882" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1612005049577">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="882" y="185" width="672" height="678" key="search.everywhere.popup/62.0.1474.864@62.0.1474.864" timestamp="1612005049577" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-field">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
+          <line>66</line>
+          <properties field="uploadButton" class="com.example.inekfirebase.AddPostActivity" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
+          <line>135</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
+          <line>139</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/HomeFragment.java</url>
+          <line>193</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

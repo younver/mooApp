@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "200071973576",
+    "project_id": "inek-firebase",
+    "storage_bucket": "inek-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200071973576:android:447c634a0842f30374f3fd",
+        "android_client_info": {
+          "package_name": "com.example.inekfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200071973576-4kabnc1f0pnvsbium5ggifp35o330o7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.inekfirebase",
+            "certificate_hash": "23d2edcbefdc418c3d975cfdc5f7d6ed5f4843d8"
+          }
+        },
+        {
+          "client_id": "200071973576-fsuqn0asfuh2lajp60c0fbvci4h9ei6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm1k-sqKd7Rt7lj-bK4JUASyqPbCfJIRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200071973576-fsuqn0asfuh2lajp60c0fbvci4h9ei6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
