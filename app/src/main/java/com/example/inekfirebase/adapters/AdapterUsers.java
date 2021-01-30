@@ -27,6 +27,7 @@ public class AdapterUsers extends RecyclerView.Adapter<AdapterUsers.MyHolder>{
     Context context;
     List<ModelUser> userList;
 
+
     //constructor
     public AdapterUsers(Context context, List<ModelUser> userList) {
         this.context = context;

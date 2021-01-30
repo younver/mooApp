@@ -25,18 +25,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4e61643-e6f8-42db-8f72-c6ba2e9f7b6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/HomeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/HomeFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/ProfileFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/ProfileFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/ThereProfileActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/ThereProfileActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/adapters/AdapterPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/adapters/AdapterPost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/adapters/AdapterUsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/adapters/AdapterUsers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_more_vertical_black.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_more_vertical_black.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_more_vertical_black.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_more_vertical_black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_more_vertical_black.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_more_vertical_black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_more_vertical_black.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_more_vertical_black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_more_vertical_black.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_more_vertical_black.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[9886784944444b4330]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -170,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611922009581</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Small Clean&#10;-Search bug fixed&#10;-BUG: After deleting message in chat, scrolls bottom&#10;-BUG: If not logged in error because of loading post">
+      <created>1612011642950</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612011642950</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,7 +222,8 @@
       <path value="$PROJECT_DIR$/../InekFirebase" />
     </ignored-roots>
     <MESSAGE value="Commit 3&#10;-Chat bug fixed&#10;-Adding posts to database (post description, title, uId, uName, pImage and more!)&#10;---------------------------------------&#10;-After deleting message in chat, scrolls bottom (!)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 3&#10;-Chat bug fixed&#10;-Adding posts to database (post description, title, uId, uName, pImage and more!)&#10;---------------------------------------&#10;-After deleting message in chat, scrolls bottom (!)" />
+    <MESSAGE value="Small Clean&#10;-Search bug fixed&#10;-BUG: After deleting message in chat, scrolls bottom&#10;-BUG: If not logged in error because of loading post" />
+    <option name="LAST_COMMIT_MESSAGE" value="Small Clean&#10;-Search bug fixed&#10;-BUG: After deleting message in chat, scrolls bottom&#10;-BUG: If not logged in error because of loading post" />
   </component>
   <component name="WindowStateProjectService">
     <state x="317" y="178" key="#PSD" timestamp="1612009638792">
@@ -222,14 +234,18 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="997" y="156" key="#com.intellij.ide.util.MemberChooser/62.0.1474.864@62.0.1474.864" timestamp="1611936821382" />
+    <state x="530" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612013140933">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="530" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1474.864@62.0.1474.864" timestamp="1612013140933" />
     <state x="698" y="195" key="AndroidCreateResourceFileDialog" timestamp="1611933495256">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="698" y="195" key="AndroidCreateResourceFileDialog/62.0.1474.864@62.0.1474.864" timestamp="1611933495256" />
-    <state x="426" y="0" key="CommitChangelistDialog2" timestamp="1611922007459">
+    <state x="426" y="0" key="CommitChangelistDialog2" timestamp="1612011641312">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="426" y="0" key="CommitChangelistDialog2/62.0.1474.864@62.0.1474.864" timestamp="1611922007459" />
+    <state x="426" y="0" key="CommitChangelistDialog2/62.0.1474.864@62.0.1474.864" timestamp="1612011641312" />
     <state x="155" y="93" width="1288" height="678" key="DiffContextDialog" timestamp="1611941667796">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
@@ -250,22 +266,22 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="483" y="127" key="Github.UntrackedFilesDialog/62.0.1474.864@62.0.1474.864" timestamp="1612009743257" />
-    <state width="1429" height="290" key="GridCell.Tab.0.bottom" timestamp="1612011458705">
+    <state width="1429" height="223" key="GridCell.Tab.0.bottom" timestamp="1612012275814">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1429" height="290" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1612011458705" />
-    <state width="1429" height="290" key="GridCell.Tab.0.center" timestamp="1612011458704">
+    <state width="1429" height="223" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1612012275814" />
+    <state width="1429" height="223" key="GridCell.Tab.0.center" timestamp="1612012275814">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1429" height="290" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1612011458704" />
-    <state width="1429" height="290" key="GridCell.Tab.0.left" timestamp="1612011458704">
+    <state width="1429" height="223" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1612012275814" />
+    <state width="1429" height="223" key="GridCell.Tab.0.left" timestamp="1612012275814">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1429" height="290" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1612011458704" />
-    <state width="1429" height="290" key="GridCell.Tab.0.right" timestamp="1612011458705">
+    <state width="1429" height="223" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1612012275814" />
+    <state width="1429" height="223" key="GridCell.Tab.0.right" timestamp="1612012275814">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1429" height="290" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1612011458705" />
+    <state width="1429" height="223" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1612012275814" />
     <state x="380" y="175" key="IDE.errors.dialog" timestamp="1611842480407">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
@@ -274,10 +290,10 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="308" y="77" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1612009655012" />
-    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1612008681993">
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1612011652252">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="392" y="165" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1612008681993" />
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1612011652252" />
     <state x="155" y="93" width="1288" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1611941306374">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
@@ -290,10 +306,10 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="216" y="38" width="836" height="802" key="dock-window-1/62.0.1474.864@62.0.1474.864" timestamp="1611845028639" />
-    <state x="505" y="165" width="588" height="534" key="find.popup" timestamp="1611842470291">
+    <state x="505" y="165" width="588" height="534" key="find.popup" timestamp="1612013130732">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="505" y="165" width="588" height="534" key="find.popup/62.0.1474.864@62.0.1474.864" timestamp="1611842470291" />
+    <state x="505" y="165" width="588" height="534" key="find.popup/62.0.1474.864@62.0.1474.864" timestamp="1612013130732" />
     <state x="566" y="220" key="git4idea.merge.GitMergeDialog" timestamp="1611941482659">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
@@ -302,10 +318,10 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="848" y="203" key="run.anything.popup/62.0.1474.864@62.0.1474.864" timestamp="1611937941020" />
-    <state x="882" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1612005049577">
+    <state x="882" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1612014258085">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="882" y="185" width="672" height="678" key="search.everywhere.popup/62.0.1474.864@62.0.1474.864" timestamp="1612005049577" />
+    <state x="882" y="186" width="672" height="678" key="search.everywhere.popup/62.0.1474.864@62.0.1474.864" timestamp="1612014258085" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
