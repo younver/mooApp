@@ -24,7 +24,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4e61643-e6f8-42db-8f72-c6ba2e9f7b6c" name="Default Changelist" comment="" />
+    <list default="true" id="c4e61643-e6f8-42db-8f72-c6ba2e9f7b6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/HomeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/HomeFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/ProfileFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/ProfileFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/ThereProfileActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/ThereProfileActivity.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +51,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../InekFirebase" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1nhVSIORmbSNR47WC1SbcBLh0AY" />
@@ -57,6 +63,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Suggestions" />
@@ -235,26 +242,30 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="624" y="352" key="Github.CreateGistDialog/62.0.1474.864@62.0.1474.864" timestamp="1612008558092" />
-    <state x="671" y="330" key="Github.ShareDialog" timestamp="1612009146761">
+    <state x="671" y="330" key="Github.ShareDialog" timestamp="1612009672050">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="671" y="330" key="Github.ShareDialog/62.0.1474.864@62.0.1474.864" timestamp="1612009146761" />
-    <state width="1429" height="223" key="GridCell.Tab.0.bottom" timestamp="1612008772222">
+    <state x="671" y="330" key="Github.ShareDialog/62.0.1474.864@62.0.1474.864" timestamp="1612009672050" />
+    <state x="483" y="127" key="Github.UntrackedFilesDialog" timestamp="1612009743257">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1429" height="223" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1612008772222" />
-    <state width="1429" height="223" key="GridCell.Tab.0.center" timestamp="1612008772222">
+    <state x="483" y="127" key="Github.UntrackedFilesDialog/62.0.1474.864@62.0.1474.864" timestamp="1612009743257" />
+    <state width="1429" height="290" key="GridCell.Tab.0.bottom" timestamp="1612011458705">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1429" height="223" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1612008772222" />
-    <state width="1429" height="223" key="GridCell.Tab.0.left" timestamp="1612008772222">
+    <state width="1429" height="290" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1612011458705" />
+    <state width="1429" height="290" key="GridCell.Tab.0.center" timestamp="1612011458704">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1429" height="223" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1612008772222" />
-    <state width="1429" height="223" key="GridCell.Tab.0.right" timestamp="1612008772222">
+    <state width="1429" height="290" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1612011458704" />
+    <state width="1429" height="290" key="GridCell.Tab.0.left" timestamp="1612011458704">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1429" height="223" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1612008772222" />
+    <state width="1429" height="290" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1612011458704" />
+    <state width="1429" height="290" key="GridCell.Tab.0.right" timestamp="1612011458705">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1429" height="290" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1612011458705" />
     <state x="380" y="175" key="IDE.errors.dialog" timestamp="1611842480407">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
@@ -372,7 +383,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/HomeFragment.java</url>
-          <line>193</line>
+          <line>188</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>

@@ -68,12 +68,7 @@ public class HomeFragment extends Fragment {
         //init post list
         postList = new ArrayList<>();
 
-        //MYCODE
-        if (firebaseAuth.getCurrentUser() == null) {
-
-        } else {
-            loadPosts();
-        }
+        loadPosts();
         return view;
     }
 
@@ -122,7 +117,7 @@ public class HomeFragment extends Fragment {
                             modelPost.getpDescription().toLowerCase().contains(searchQuery.toLowerCase())){
                         postList.add(modelPost);
                     }
-                    postList.add(modelPost);
+                    //postList.add(modelPost);
 
                     //adapter
                     adapterPost = new AdapterPost(getActivity(), postList);

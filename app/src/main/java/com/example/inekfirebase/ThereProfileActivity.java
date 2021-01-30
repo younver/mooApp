@@ -3,7 +3,7 @@ package com.example.inekfirebase;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.SearchView;
+import android.widget.SearchView;
 import androidx.core.view.MenuItemCompat;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
@@ -225,7 +225,6 @@ public class ThereProfileActivity extends AppCompatActivity {
         menu.findItem(R.id.add_post_action).setVisible(false);  //hide add post from this activity
 
         MenuItem item = menu.findItem(R.id.search_action);
-        //androidx searchView ot search user specific posts
         SearchView searchView = (SearchView) MenuItemCompat.getActionView(item);
 
         searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
