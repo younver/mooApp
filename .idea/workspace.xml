@@ -25,15 +25,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4e61643-e6f8-42db-8f72-c6ba2e9f7b6c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/adapters/AdapterPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/adapters/AdapterPost.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/adapters/AdapterUsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/adapters/AdapterUsers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_more_vertical_black.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_more_vertical_black.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_more_vertical_black.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_more_vertical_black.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_more_vertical_black.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_more_vertical_black.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_more_vertical_black.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_more_vertical_black.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_more_vertical_black.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_more_vertical_black.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612011642950</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="-Deleting post feature added&#10;-BUG: After deleting message in chat, scrolls bottom&#10;-BUG: If not logged in error because of loading post">
+      <created>1612015249205</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612015249205</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,7 +224,8 @@
     </ignored-roots>
     <MESSAGE value="Commit 3&#10;-Chat bug fixed&#10;-Adding posts to database (post description, title, uId, uName, pImage and more!)&#10;---------------------------------------&#10;-After deleting message in chat, scrolls bottom (!)" />
     <MESSAGE value="Small Clean&#10;-Search bug fixed&#10;-BUG: After deleting message in chat, scrolls bottom&#10;-BUG: If not logged in error because of loading post" />
-    <option name="LAST_COMMIT_MESSAGE" value="Small Clean&#10;-Search bug fixed&#10;-BUG: After deleting message in chat, scrolls bottom&#10;-BUG: If not logged in error because of loading post" />
+    <MESSAGE value="-Deleting post feature added&#10;-BUG: After deleting message in chat, scrolls bottom&#10;-BUG: If not logged in error because of loading post" />
+    <option name="LAST_COMMIT_MESSAGE" value="-Deleting post feature added&#10;-BUG: After deleting message in chat, scrolls bottom&#10;-BUG: If not logged in error because of loading post" />
   </component>
   <component name="WindowStateProjectService">
     <state x="317" y="178" key="#PSD" timestamp="1612009638792">
@@ -242,10 +244,10 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="698" y="195" key="AndroidCreateResourceFileDialog/62.0.1474.864@62.0.1474.864" timestamp="1611933495256" />
-    <state x="426" y="0" key="CommitChangelistDialog2" timestamp="1612011641312">
+    <state x="426" y="0" key="CommitChangelistDialog2" timestamp="1612015247453">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="426" y="0" key="CommitChangelistDialog2/62.0.1474.864@62.0.1474.864" timestamp="1612011641312" />
+    <state x="426" y="0" key="CommitChangelistDialog2/62.0.1474.864@62.0.1474.864" timestamp="1612015247453" />
     <state x="155" y="93" width="1288" height="678" key="DiffContextDialog" timestamp="1611941667796">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
@@ -290,10 +292,10 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="308" y="77" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1612009655012" />
-    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1612011652252">
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1612015253115">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="392" y="165" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1612011652252" />
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1612015253115" />
     <state x="155" y="93" width="1288" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1611941306374">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
@@ -328,74 +330,24 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-field">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
-          <line>66</line>
+          <line>70</line>
           <properties field="uploadButton" class="com.example.inekfirebase.AddPostActivity" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
-          <line>122</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
-          <line>135</line>
+          <line>159</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
-          <line>138</line>
+          <line>162</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
-          <line>139</line>
+          <line>163</line>
           <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
-          <line>89</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
-          <line>90</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
-          <line>92</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
-          <line>94</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
-          <line>95</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
-          <line>97</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
-          <line>100</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
-          <line>101</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/AddPostActivity.java</url>
-          <line>102</line>
-          <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/HomeFragment.java</url>

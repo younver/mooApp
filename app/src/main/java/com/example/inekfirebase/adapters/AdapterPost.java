@@ -21,6 +21,7 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.example.inekfirebase.AddPostActivity;
 import com.example.inekfirebase.R;
 import com.example.inekfirebase.ThereProfileActivity;
 import com.example.inekfirebase.models.ModelPost;
@@ -162,6 +163,7 @@ public class AdapterPost extends RecyclerView.Adapter<AdapterPost.MyHolder> {
         if (uid.equals(myUid)){
             //add items in menu
             popupMenu.getMenu().add(Menu.NONE, 0, 0, "Delete");
+            popupMenu.getMenu().add(Menu.NONE, 1, 0, "Edit");
         }
 
         //item click listener
@@ -172,6 +174,14 @@ public class AdapterPost extends RecyclerView.Adapter<AdapterPost.MyHolder> {
                 if (id==0){
                     //delete is clicked
                     deletePost(pId, pImage);
+                }
+                else if (id==1){
+                    //edit is clicked
+                    //start AddPostActivity with key "editPost" and the id of the post clicked
+                    Intent intent = new Intent(context, AddPostActivity.class);
+                    intent.putExtra("key", "editPost");
+                    intent.putExtra("editPostId", pId);
+                    context.startActivity(intent);
                 }
                 return false;
             }
