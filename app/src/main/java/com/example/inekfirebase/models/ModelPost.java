@@ -13,15 +13,16 @@ public class ModelPost {
         hashMap.put("pImage", downloadUri);
         hashMap.put("pTime", timeStamp);
                                                 */
-    String pId, pTitle, pDescription, pImage, pTime, uid, uName, uEmail, uDp;
+    String pId, pTitle, pDescription, pLikes, pImage, pTime, uid, uName, uEmail, uDp;
 
     public ModelPost() {
     }
 
-    public ModelPost(String pId, String pTitle, String pDescription, String pImage, String pTime, String uid, String uName, String uEmail, String uDp) {
+    public ModelPost(String pId, String pTitle, String pDescription, String pLikes, String pImage, String pTime, String uid, String uName, String uEmail, String uDp) {
         this.pId = pId;
         this.pTitle = pTitle;
         this.pDescription = pDescription;
+        this.pLikes = pLikes;
         this.pImage = pImage;
         this.pTime = pTime;
         this.uid = uid;
@@ -52,6 +53,14 @@ public class ModelPost {
 
     public void setpDescription(String pDescription) {
         this.pDescription = pDescription;
+    }
+
+    public String getpLikes() {
+        return pLikes;
+    }
+
+    public void setpLikes(String pLikes) {
+        this.pLikes = pLikes;
     }
 
     public String getpImage() {
