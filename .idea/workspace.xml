@@ -25,22 +25,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4e61643-e6f8-42db-8f72-c6ba2e9f7b6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_like_blue.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_like_blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_like_blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_like_blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_like_blue.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/PostDetailActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_post_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/ProfileFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/ProfileFragment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/adapters/AdapterPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/adapters/AdapterPost.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/models/ModelPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/inekfirebase/models/ModelPost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/row_posts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/row_posts.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[9886784944444b4330]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -83,11 +83,14 @@
     <key name="android.template.-61916107">
       <recent name="com.example.inekfirebase" />
     </key>
-    <key name="android.template.1605249437">
-      <recent name="com.example.inekfirebase" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\USER\AndroidStudioProjects\mooapp-master\app\src\main\res\drawable" />
+    </key>
+    <key name="android.template.198911342">
+      <recent name="com.example.inekfirebase" />
+    </key>
+    <key name="android.template.1605249437">
+      <recent name="com.example.inekfirebase" />
     </key>
   </component>
   <component name="RunManager">
@@ -195,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612017713352</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="-Liking post feature added&#10;-BUG: After deleting message in chat, scrolls bottom&#10;-BUG: If not logged in error because of loading post">
+      <created>1612080224981</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612080224981</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,29 +249,35 @@
     <MESSAGE value="Small Clean&#10;-Search bug fixed&#10;-BUG: After deleting message in chat, scrolls bottom&#10;-BUG: If not logged in error because of loading post" />
     <MESSAGE value="-Deleting post feature added&#10;-BUG: After deleting message in chat, scrolls bottom&#10;-BUG: If not logged in error because of loading post" />
     <MESSAGE value="-Editing posts&#10;-BUG: After deleting message in chat, scrolls bottom&#10;-BUG: If not logged in error because of loading post" />
-    <option name="LAST_COMMIT_MESSAGE" value="-Editing posts&#10;-BUG: After deleting message in chat, scrolls bottom&#10;-BUG: If not logged in error because of loading post" />
+    <MESSAGE value="-Liking post feature added&#10;-BUG: After deleting message in chat, scrolls bottom&#10;-BUG: If not logged in error because of loading post" />
+    <option name="LAST_COMMIT_MESSAGE" value="-Liking post feature added&#10;-BUG: After deleting message in chat, scrolls bottom&#10;-BUG: If not logged in error because of loading post" />
   </component>
   <component name="WindowStateProjectService">
     <state x="317" y="178" key="#PSD" timestamp="1612009638792">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="317" y="178" key="#PSD/62.0.1474.864@62.0.1474.864" timestamp="1612009638792" />
-    <state x="997" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1612078725396">
-      <screen x="62" y="0" width="1474" height="864" />
+    <state x="998" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1612370439511">
+      <screen x="65" y="0" width="1471" height="864" />
     </state>
     <state x="997" y="156" key="#com.intellij.ide.util.MemberChooser/62.0.1474.864@62.0.1474.864" timestamp="1612078725396" />
+    <state x="998" y="156" key="#com.intellij.ide.util.MemberChooser/65.0.1471.864@65.0.1471.864" timestamp="1612370439511" />
     <state x="530" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612013140933">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="530" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1474.864@62.0.1474.864" timestamp="1612013140933" />
+    <state x="155" y="93" width="1288" height="678" key="AVDManager" timestamp="1612178892056">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="155" y="93" width="1288" height="678" key="AVDManager/62.0.1474.864@62.0.1474.864" timestamp="1612178892056" />
     <state x="698" y="195" key="AndroidCreateResourceFileDialog" timestamp="1611933495256">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="698" y="195" key="AndroidCreateResourceFileDialog/62.0.1474.864@62.0.1474.864" timestamp="1611933495256" />
-    <state x="426" y="0" key="CommitChangelistDialog2" timestamp="1612017711693">
+    <state x="426" y="0" key="CommitChangelistDialog2" timestamp="1612080223320">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="426" y="0" key="CommitChangelistDialog2/62.0.1474.864@62.0.1474.864" timestamp="1612017711693" />
+    <state x="426" y="0" key="CommitChangelistDialog2/62.0.1474.864@62.0.1474.864" timestamp="1612080223320" />
     <state x="155" y="93" width="1288" height="678" key="DiffContextDialog" timestamp="1611941667796">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
@@ -282,22 +298,26 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="483" y="127" key="Github.UntrackedFilesDialog/62.0.1474.864@62.0.1474.864" timestamp="1612009743257" />
-    <state width="1429" height="223" key="GridCell.Tab.0.bottom" timestamp="1612012275814">
-      <screen x="62" y="0" width="1474" height="864" />
+    <state width="1427" height="290" key="GridCell.Tab.0.bottom" timestamp="1612373644845">
+      <screen x="65" y="0" width="1471" height="864" />
     </state>
     <state width="1429" height="223" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1612012275814" />
-    <state width="1429" height="223" key="GridCell.Tab.0.center" timestamp="1612012275814">
-      <screen x="62" y="0" width="1474" height="864" />
+    <state width="1427" height="290" key="GridCell.Tab.0.bottom/65.0.1471.864@65.0.1471.864" timestamp="1612373644845" />
+    <state width="1427" height="290" key="GridCell.Tab.0.center" timestamp="1612373644844">
+      <screen x="65" y="0" width="1471" height="864" />
     </state>
     <state width="1429" height="223" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1612012275814" />
-    <state width="1429" height="223" key="GridCell.Tab.0.left" timestamp="1612012275814">
-      <screen x="62" y="0" width="1474" height="864" />
+    <state width="1427" height="290" key="GridCell.Tab.0.center/65.0.1471.864@65.0.1471.864" timestamp="1612373644844" />
+    <state width="1427" height="290" key="GridCell.Tab.0.left" timestamp="1612373644843">
+      <screen x="65" y="0" width="1471" height="864" />
     </state>
     <state width="1429" height="223" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1612012275814" />
-    <state width="1429" height="223" key="GridCell.Tab.0.right" timestamp="1612012275814">
-      <screen x="62" y="0" width="1474" height="864" />
+    <state width="1427" height="290" key="GridCell.Tab.0.left/65.0.1471.864@65.0.1471.864" timestamp="1612373644843" />
+    <state width="1427" height="290" key="GridCell.Tab.0.right" timestamp="1612373644844">
+      <screen x="65" y="0" width="1471" height="864" />
     </state>
     <state width="1429" height="223" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1612012275814" />
+    <state width="1427" height="290" key="GridCell.Tab.0.right/65.0.1471.864@65.0.1471.864" timestamp="1612373644844" />
     <state x="380" y="175" key="IDE.errors.dialog" timestamp="1611842480407">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
@@ -306,14 +326,18 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="308" y="77" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1612009655012" />
-    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1612017716496">
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1612080232227">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="392" y="165" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1612017716496" />
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1612080232227" />
     <state x="155" y="93" width="1288" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1611941306374">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="155" y="93" width="1288" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog/62.0.1474.864@62.0.1474.864" timestamp="1611941306374" />
+    <state x="688" y="73" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1612082448614">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="688" y="73" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/62.0.1474.864@62.0.1474.864" timestamp="1612082448614" />
     <state x="555" y="314" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612008482416">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
@@ -322,10 +346,10 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="216" y="38" width="836" height="802" key="dock-window-1/62.0.1474.864@62.0.1474.864" timestamp="1611845028639" />
-    <state x="505" y="165" width="588" height="534" key="find.popup" timestamp="1612078638980">
+    <state x="505" y="165" width="588" height="534" key="find.popup" timestamp="1612083465025">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="505" y="165" width="588" height="534" key="find.popup/62.0.1474.864@62.0.1474.864" timestamp="1612078638980" />
+    <state x="505" y="165" width="588" height="534" key="find.popup/62.0.1474.864@62.0.1474.864" timestamp="1612083465025" />
     <state x="566" y="220" key="git4idea.merge.GitMergeDialog" timestamp="1611941482659">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
